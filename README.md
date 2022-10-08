@@ -25,7 +25,7 @@ https://www.kaggle.com/datasets/nasa/kepler-exoplanet-search-results
 
 ![SVM_standard_scale.png](Image/SVM_standard_scale.png) 
 
-### Random forest (use standard scaler)
+### Random forest
 
 ![random_forest.png](Image/random_forest.png) 
 
