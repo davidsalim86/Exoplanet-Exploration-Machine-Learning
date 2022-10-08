@@ -17,15 +17,15 @@ https://www.kaggle.com/datasets/nasa/kepler-exoplanet-search-results
 
 ## Models used
 
-#### SVM (minmax scaler)
+#### SVM Performance Report (use minmax scaler)
 
 ![SVM_minmax_scale.png](Image/SVM_minmax_scale.png) 
 
-#### SVM (standard scaler)
+#### SVM Performance Report (use standard scaler)
 
 ![SVM_standard_scale.png](Image/SVM_standard_scale.png) 
 
-#### Random forest
+#### Random forest Performance Report
 
 ![random_forest.png](Image/random_forest.png) 
 
