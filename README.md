@@ -16,17 +16,21 @@ https://www.kaggle.com/datasets/nasa/kepler-exoplanet-search-results
 - Experiment with various algorithms to develop a model with high accuracy score. 
 
 ## Models used
-- SVM (minmax scaler)
+
+#### SVM (minmax scaler)
+
 ![SVM_minmax_scale.png](Image/SVM_minmax_scale.png) 
 
-- SVM (standard scaler)
+#### SVM (standard scaler)
+
 ![SVM_standard_scale.png](Image/SVM_standard_scale.png) 
 
-- Random forest
-![random_forest.png](Images/random_forest.png) 
+#### Random forest
+
+![random_forest.png](Image/random_forest.png) 
 
 ## Finding
 - Random forest model has the highest accuracy score (accuracy of 90%). 
-- With SVM model, scalling data using standard scaller produces more accurate model compared to minmax scaller (accuracy of 81% vs 88%).
+- With SVM model, scaling data using standard scaler produces more accurate model compared to minmax scaler (accuracy of 81% vs 88%).
 - All models predict "false positive" category most accurately.
 - All models predict "candidate" category with the least accuracy. 
