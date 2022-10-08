@@ -15,17 +15,17 @@ https://www.kaggle.com/datasets/nasa/kepler-exoplanet-search-results
 - Tune model parameters with gridsearch.
 - Experiment with various algorithms to develop a model with high accuracy score. 
 
-## Models used
+## Model Performance Reports
 
-#### SVM Performance Report (use minmax scaler)
+### SVM (use minmax scaler)
 
 ![SVM_minmax_scale.png](Image/SVM_minmax_scale.png) 
 
-#### SVM Performance Report (use standard scaler)
+### SVM (use standard scaler)
 
 ![SVM_standard_scale.png](Image/SVM_standard_scale.png) 
 
-#### Random forest Performance Report
+### Random forest (use standard scaler)
 
 ![random_forest.png](Image/random_forest.png) 
 
