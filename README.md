@@ -1,4 +1,4 @@
-# Machine Learning - Exoplanet Exploration
+# Exoplanet Exploration - Machine Learning
 
 ## Aim
 
